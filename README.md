@@ -10,8 +10,10 @@ I'm looking for positions in biostatistics, data analysis or science communicati
 
 🔭 My research has focused on developing novel statistical tools and software to promote equitable re-use of publicly available genetic summary data. 
 
-Check out some of my favorite projects I've contributed to: 
+Check out some of my favorite projects I've contributed to:
+
 [Summix](github.com/hendriau/summix)
+
 [CaseControlAF](github.com/wolffha/CaseControlAF/)
 
 <!--
