@@ -12,9 +12,9 @@ I'm looking for positions in biostatistics, data analysis or science communicati
 
 Check out some of my favorite projects I've contributed to:
 
-[Summix](github.com/hendriau/summix)
+[Summix](https://github.com/hendriau/summix)
 
-[CaseControlAF](github.com/wolffha/CaseControlAF/)
+[CaseControlAF](https://github.com/wolffha/CaseControlAF/)
 
 <!--
 **wolffha/wolffha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
