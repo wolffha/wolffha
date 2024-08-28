@@ -6,13 +6,17 @@ I'm a PhD student in Human Medical Genetics and Genomics graduating this semeste
 
 I'm looking for positions in biostatistics, data analysis or science communication! 
 
+I would love to apply my skills in applied biostatistics and R programming to help you achieve your goals. 
+
+[Connect on LinkedIn](https://www.linkedin.com/in/hayley-wolff-48813116a/)
+
 ### About me
 
 🔭 My research has focused on developing novel statistical tools and software to promote equitable re-use of publicly available genetic summary data. 
 
 Check out some of my favorite projects I've contributed to:
 
-[Summix](https://github.com/hendriau/summix)
+[Summix2](https://github.com/hendriau/summix)
 
 [CaseControlAF](https://github.com/wolffha/CaseControlAF/)
 
