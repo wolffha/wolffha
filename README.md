@@ -17,10 +17,10 @@ I would love to apply my skills in applied biostatistics and R programming to he
 Check out some of my favorite projects I've contributed to:
 
 [Summix2](https://github.com/hendriau/summix)
-![Summix-logo](https://github.com/wolffha/wolffha/blob/main/images/Summix-Hex.png)
+![Summix-logo](https://github.com/wolffha/wolffha/blob/main/images/Summix-Hex.png){width=200px}
 
 [CCAFE](https://github.com/wolffha/CCAFE/)
-![CCAFE-logo](https://github.com/wolffha/wolffha/blobl/main/images/CCAFE-hex.png)
+![CCAFE-logo](https://github.com/wolffha/wolffha/blob/main/images/CCAFE-hex.png){width=200px}
 
 😄 Pronouns: she/her
 
