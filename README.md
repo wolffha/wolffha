@@ -8,7 +8,7 @@
 
 I would love to apply my skills in applied biostatistics and R programming to help you achieve your goals. 
 
-[Connect on LinkedIn](https://www.linkedin.com/in/hayley-wolff-48813116a/)
+[Connect on LinkedIn](https://www.linkedin.com/in/hayleyrwolff)
 
 ### About me
 
@@ -18,11 +18,11 @@ Check out some of my favorite projects I've contributed to:
 
 [Summix2](https://github.com/hendriau/summix)
 
-[CaseControlAF](https://github.com/wolffha/CaseControlAF/)
+[CCAFE](https://github.com/wolffha/CCAFE/)
 
 😄 Pronouns: she/her
 
-📫 Reach out to me on [LinkedIn](https://www.linkedin.com/in/hayley-wolff-48813116a/) to connect
+📫 Reach out to me on [LinkedIn](https://www.linkedin.com/in/hayleyrwolff) to connect
 
 ⚡ Fun fact: I don't know when I was born!
 
