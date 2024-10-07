@@ -17,9 +17,15 @@ I would love to apply my skills in applied biostatistics and R programming to he
 Check out some of my favorite projects I've contributed to:
 
 [Summix2](https://github.com/hendriau/summix)
+
+<br>
+
 <img src="https://github.com/wolffha/wolffha/blob/main/images/Summix-Hex.png" width="200">
 
 [CCAFE](https://github.com/wolffha/CCAFE/)
+
+<br>
+
 <img src="https://github.com/wolffha/wolffha/blob/main/images/CCAFE-hex.png" width="200">
 
 😄 Pronouns: she/her
