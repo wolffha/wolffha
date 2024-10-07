@@ -20,7 +20,7 @@ Check out some of my favorite projects I've contributed to:
 <img src="https://github.com/wolffha/wolffha/blob/main/images/Summix-Hex.png" width="200">
 
 [CCAFE](https://github.com/wolffha/CCAFE/)
-<img src="https://github.com/wolffha/wolffha/blob/main/images/CCAFE-hex.png" width="200")
+<img src="https://github.com/wolffha/wolffha/blob/main/images/CCAFE-hex.png" width="200">
 
 😄 Pronouns: she/her
 
