@@ -1,6 +1,6 @@
 ## Hi, I'm Hayley 👋
 
-👩‍🎓 I'm a PhD student in Human Medical Genetics and Genomics graduating this semester (December 2024)! 
+👩‍🎓 I completed my PhD in Human Medical Genetics and Genomics!
 
 ### Let's work together!
 
